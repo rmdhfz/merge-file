@@ -1,2 +1,2 @@
 # merge-file
-This is script for megre files.
+This is script for merge files.
